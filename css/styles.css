@@ -11631,7 +11631,7 @@ body {
 
 .signup-section {
   padding: 10rem 0;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.5) 100%, #000 100%), url("../assets/img/closeup.png");
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.5) 100%, #000 100%), url("../assets/img/othercloseup.png");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
